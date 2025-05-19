@@ -17,16 +17,10 @@
   ```sh
   python space_game.py
   ```
-- Для запуска без Python — используйте собранный файл `space_game.exe` (работает без установки Python и библиотек).
+- Для запуска без Python — используйте собранный файл `space_game.exe`.
 
-**Требования:**
-- Python 3.8+
-- Библиотека [pygame](https://www.pygame.org/)
 
-**Сборка в exe:**
-- Для создания автономного exe-файла используется [PyInstaller](https://pyinstaller.org/).
-
-**Структура проекта:**
+**Структура:**
 - `space_game.py` — основной файл запуска
 - `gun.py`, `bullet.py`, `ino.py`, `controls.py`, `scores.py`, `stats.py` — игровые модули
 - `images/` — папка с графикой (танк, враги и т.д.)
@@ -34,6 +28,6 @@
 
 ---
 
-**Автор:**
-GitHub: [van4956](https://github.com/van4956)
-Telegramm: [van4956](tg://user?id=459148628)
+**Автор:**  
+GitHub: [van4956](https://github.com/van4956)  
+Telegram: [van4956](https://t.me/van4956)  
