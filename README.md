@@ -17,7 +17,7 @@
   ```sh
   python space_game.py
   ```
-- Для запуска без Python — используйте собранный файл `space_game.exe`.
+- Для запуска без Python — используйте собранный файл `space_game.exe`
 
 
 **Структура:**
@@ -29,5 +29,5 @@
 ---
 
 **Автор:**  
-GitHub: [van4956](https://github.com/van4956)  
-Telegram: [van4956](https://t.me/van4956)  
+- GitHub: [van4956](https://github.com/van4956)  
+- Telegram: [van4956](https://t.me/van4956)  
