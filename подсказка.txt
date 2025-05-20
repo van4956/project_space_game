@@ -52,5 +52,7 @@ rm -rf .git                    — отключить систему контр�
 
 9) создание единого исполняемого файла
 
-pip install pyinstaller
-pyinstaller --onefile --windowed --add-data "images/*;images" space_game.py
+pip install pyinstaller            - качаем необходимую библиотеку
+version_info.txt                   - создаем текстовый файл с описаниемданными об авторстве
+
+pyinstaller --onefile --windowed --add-data "images/*;images" --version-file version_info.txt space_game.py
