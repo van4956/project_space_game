@@ -48,3 +48,9 @@ git rebase                     — синхронизировать локаль
 git fetch                      — обновления информации о состоянии удаленного репозитория
 
 rm -rf .git                    — отключить систему контроля версий Git
+
+
+9) создание единого исполняемого файла
+
+pip install pyinstaller
+pyinstaller --onefile --windowed --add-data "images/*;images" space_game.py
